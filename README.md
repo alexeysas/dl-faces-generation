@@ -1,5 +1,5 @@
 # Face Generation
-In this project, we'll use generative adversarial networks (GANs) to generate new images of faces.
+In this project, we'll use generative adversarial networks (GANs) to generate new images of faces using TensorFlow and Python. 
 
 ## Getting Started
 
@@ -14,7 +14,9 @@ In this project, we'll use generative adversarial networks (GANs) to generate ne
 4. Download requried datasets:
     - [MNIST](http://yann.lecun.com/exdb/mnist/)
     - [CelebFaces Attributes Dataset (CelebA)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
+5. Run Notebook using command "jupyter notebook"
 
 ## Reference Material
 
 [GANs](https://skymind.ai/wiki/generative-adversarial-network-gan)
+[Tensorflow](https://www.tensorflow.org/tutorials/)
