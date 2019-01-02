@@ -11,6 +11,9 @@ In this project, we'll use generative adversarial networks (GANs) to generate ne
 3. Install required packages:
     - pip install numpy 
     - [install tensorflow](https://www.tensorflow.org/install/)  
+4. Download requried datasets:
+    - [MNIST](http://yann.lecun.com/exdb/mnist/)
+    - [CelebFaces Attributes Dataset (CelebA)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
 ## Reference Material
 
